@@ -45,4 +45,4 @@ This repository serves as a learning resource and project collection created whi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mahatva1303/core-java-projects.git
+   git clone https://github.com/Mahatva1303/java-mini-projects.git
